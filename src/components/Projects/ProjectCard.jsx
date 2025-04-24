@@ -53,7 +53,7 @@ const ProjectCard = (props) => {
           }}
         >
           <BsGithub /> &nbsp;
-          {props.isBlog ? "Blog" : "GitHub"}
+          {props.isBlog ? "Blog" : "GitHub/Link"}
         </Button>
         {"\n"}
         {"\n"}
