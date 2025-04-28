@@ -33,8 +33,8 @@ const About = () => {
                   I enjoy tackling new challenges and continuously expanding my skillset.
                   <br />
                   <br />I am proficient in
-                    <b className="yellow"> Javascript, </b>
-                    as well as have knowledge in programming languages such as C++,HTML,Javascript
+                    <b className="yellow"> C++, </b>
+                    as well as have knowledge in programming languages such as HTML,Javascript 
                   <b className="yellow"> And Techstack like MERN</b>
                   <br />
                   <br />
